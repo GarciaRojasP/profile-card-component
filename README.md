@@ -21,12 +21,12 @@ Esto es una solución de la [Profile card component challenge on Frontend Mentor
 
 ### Screenshot
 
-![]()
+![](https://github.com/GarciaRojasP/profile-card-component/assets/119550417/a9d3b5a4-adc6-498c-a7be-ba12632085b4)
 
 ### Links
 
-- Ver código: [Profile card component]()
-- Ver demo: [Profile card component]()
+- Ver código: [Profile card component](https://github.com/GarciaRojasP/profile-card-component)
+- Ver demo: [Profile card component](https://profile-card-component-tau-orcin.vercel.app/)
 
 ## Mi proceso
 
